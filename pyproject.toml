@@ -2,7 +2,7 @@
 name = "my_emotion_project"
 version = "0.1.0"
 description = "Emotion recognition project with audio and text"
-authors = ["Your Name <you@example.com>"]
+authors = ["Pathri Vidya Praveen <cs24btech11047@iith.ac.in>"]
 packages = [{ include = "my_emotion_project" }]
 
 [tool.poetry.dependencies]
