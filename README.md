@@ -6,4 +6,6 @@ Note : Please refer to the Report pdf file for more details regarding accuracy a
 
 
 
-Note : Transformer model like DistilBERT and BERT can be used for text RNN . This can be a good improvement in future.
+Note : Transformer model like DistilBERT and BERT can be used for text RNN . This can be a good improvement in future.  
+The below is the link for the GitHub repository for the further improvements of the model (Aiming to use transformer based models instead of CNN and RNN) :  
+https://github.com/PathriVidyaPraveen/Multimodal-Emotion-recognition-from-Audio-and-Transcript-Further-Improvements
